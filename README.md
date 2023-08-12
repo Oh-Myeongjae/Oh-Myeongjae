@@ -1,4 +1,4 @@
-### Hi there 👋
+### BackEnd Developer 👋
 - 🌱 백엔드 개발자/SPRING
 - 🌱 열혈 코더
 - 🌱 1일 1커밋
