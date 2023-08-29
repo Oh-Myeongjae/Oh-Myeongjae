@@ -1,5 +1,5 @@
 ### 👋 BackEnd Developer 👋
-- 🌱 백엔드 개발자/SPRING
+- 🌱 백엔드 개발자/SPRING BOOT
 - 🌱 열혈 코더
 - 🌱 1일 1커밋
 - 🌱 1일 1코딩 테스트 준비중
